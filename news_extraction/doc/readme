@@ -1,0 +1,13 @@
+The code is to extract the news articles from Nytimes website using their ArticleSearch API.
+Input:	<Keyword to be searched><space> <path of the folder to save articles>
+Output:	Textfiles with different articles realted to the searched keyword. The output of the textfiles is in following format-
+ID :<>
+
+Published Date :<>
+Web URL :<>
+Snippet :<>
+Abstract : <>
+Lead Paragraph : <>
+Section Name : <>
+Subsection Name : <>
+
