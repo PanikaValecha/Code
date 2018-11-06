@@ -2,6 +2,7 @@
    Download the news articles from NYTimes
 
 2. gitrepo_extraction
+   Search for the github repositories related to a keyword
    Input: Keyword and path of output_file
    Output: Text file containing the JSON description of the repositories
            Such repository should contain the given keyword.
